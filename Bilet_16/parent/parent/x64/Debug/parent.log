@@ -1,0 +1,3 @@
+﻿  parent.cpp
+C:\Users\eivin\Desktop\Практика Морозов\16 вариант\parent\parent\parent.cpp(40,61): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  parent.vcxproj -> C:\Users\eivin\Desktop\Практика Морозов\16 вариант\parent\x64\Debug\parent.exe
