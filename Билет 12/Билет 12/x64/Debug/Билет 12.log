@@ -1,0 +1,3 @@
+﻿  Билет 12.cpp
+D:\VisualStudioProject\CPP\Билет 12\Билет 12\Билет 12\Билет 12.cpp(56,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Билет 12.vcxproj -> D:\VisualStudioProject\CPP\Билет 12\Билет 12\x64\Debug\Билет 12.exe
