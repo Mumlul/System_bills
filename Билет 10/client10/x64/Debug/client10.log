@@ -1,0 +1,3 @@
+﻿  client10.cpp
+C:\Users\ПК\source\repos\Билеты Сис\Билет 10\client10\client10.cpp(27,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  client10.vcxproj -> C:\Users\ПК\source\repos\Билеты Сис\Билет 10\x64\Debug\client10.exe
