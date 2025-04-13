@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\collage\\\u0411\u0438\u043B\u0435\u0442 13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85C25F41-8F32-4B41-9267-0B488BE6D300}|\u0411\u0438\u043B\u0435\u0442 13\\\u0411\u0438\u043B\u0435\u0442 13.vcxproj|C:\\Users\\pc\\Desktop\\collage\\\u0411\u0438\u043B\u0435\u0442 13\\\u0411\u0438\u043B\u0435\u0442 13\\\u0411\u0438\u043B\u0435\u0442 13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85C25F41-8F32-4B41-9267-0B488BE6D300}|\u0411\u0438\u043B\u0435\u0442 13\\\u0411\u0438\u043B\u0435\u0442 13.vcxproj|solutionrelative:\u0411\u0438\u043B\u0435\u0442 13\\\u0411\u0438\u043B\u0435\u0442 13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0411\u0438\u043B\u0435\u0442 13.cpp",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\collage\\\u0411\u0438\u043B\u0435\u0442 13\\\u0411\u0438\u043B\u0435\u0442 13\\\u0411\u0438\u043B\u0435\u0442 13.cpp",
+              "RelativeDocumentMoniker": "\u0411\u0438\u043B\u0435\u0442 13\\\u0411\u0438\u043B\u0435\u0442 13.cpp",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\collage\\\u0411\u0438\u043B\u0435\u0442 13\\\u0411\u0438\u043B\u0435\u0442 13\\\u0411\u0438\u043B\u0435\u0442 13.cpp",
+              "RelativeToolTip": "\u0411\u0438\u043B\u0435\u0442 13\\\u0411\u0438\u043B\u0435\u0442 13.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-13T06:34:03.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
