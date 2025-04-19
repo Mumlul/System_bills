@@ -1,0 +1,4 @@
+﻿  FileTransferServer.cpp
+C:\Users\328-2\Documents\pr-31_martynov\FileTransferServer\FileTransferServer.cpp(71,28): warning C4244: инициализация: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\328-2\Documents\pr-31_martynov\FileTransferServer\FileTransferServer.cpp(125,23): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+  FileTransferServer.vcxproj -> C:\Users\328-2\Documents\pr-31_martynov\FileTransferServer\x64\Debug\FileTransferServer.exe

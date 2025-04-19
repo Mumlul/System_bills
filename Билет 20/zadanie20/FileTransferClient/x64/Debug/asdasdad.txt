@@ -1,0 +1,3 @@
+FileTransferClient.exe 127.0.0.1 download test.txt
+
+FileTransferClient.exe 127.0.0.1 upload test.txt

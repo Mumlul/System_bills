@@ -1,0 +1,5 @@
+﻿  FileTransferClient.cpp
+C:\Users\328-2\Documents\pr-31_martynov\FileTransferClient\FileTransferClient.cpp(75,23): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+C:\Users\328-2\Documents\pr-31_martynov\FileTransferClient\FileTransferClient.cpp(124,28): warning C4244: инициализация: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\328-2\Documents\pr-31_martynov\FileTransferClient\FileTransferClient.cpp(204,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  FileTransferClient.vcxproj -> C:\Users\328-2\Documents\pr-31_martynov\FileTransferClient\x64\Debug\FileTransferClient.exe
