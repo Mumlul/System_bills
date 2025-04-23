@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\zadanie_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30F53BAD-DF89-4257-977C-5C54FEBC9B9A}|zadanie_8\\zadanie_8.vcxproj|D:\\projects\\zadanie_8\\zadanie_8\\zadanie_8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30F53BAD-DF89-4257-977C-5C54FEBC9B9A}|zadanie_8\\zadanie_8.vcxproj|solutionrelative:zadanie_8\\zadanie_8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zadanie_8.cpp",
+              "DocumentMoniker": "D:\\projects\\zadanie_8\\zadanie_8\\zadanie_8.cpp",
+              "RelativeDocumentMoniker": "zadanie_8\\zadanie_8.cpp",
+              "ToolTip": "D:\\projects\\zadanie_8\\zadanie_8\\zadanie_8.cpp",
+              "RelativeToolTip": "zadanie_8\\zadanie_8.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T18:34:24.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
