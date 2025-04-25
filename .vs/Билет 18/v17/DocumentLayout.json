@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Project\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\\\u0411\u0438\u043B\u0435\u0442 18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1E172D-969B-4486-9813-032FE1047382}|\u0411\u0438\u043B\u0435\u0442 18\\\u0411\u0438\u043B\u0435\u0442 18.vcxproj|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Project\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\\\u0411\u0438\u043B\u0435\u0442 18\\\u0411\u0438\u043B\u0435\u0442 18\\\u0411\u0438\u043B\u0435\u0442 18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF1E172D-969B-4486-9813-032FE1047382}|\u0411\u0438\u043B\u0435\u0442 18\\\u0411\u0438\u043B\u0435\u0442 18.vcxproj|solutionrelative:\u0411\u0438\u043B\u0435\u0442 18\\\u0411\u0438\u043B\u0435\u0442 18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0411\u0438\u043B\u0435\u0442 18.cpp",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Project\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\\\u0411\u0438\u043B\u0435\u0442 18\\\u0411\u0438\u043B\u0435\u0442 18\\\u0411\u0438\u043B\u0435\u0442 18.cpp",
+              "RelativeDocumentMoniker": "\u0411\u0438\u043B\u0435\u0442 18\\\u0411\u0438\u043B\u0435\u0442 18.cpp",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Project\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\\\u0411\u0438\u043B\u0435\u0442 18\\\u0411\u0438\u043B\u0435\u0442 18\\\u0411\u0438\u043B\u0435\u0442 18.cpp",
+              "RelativeToolTip": "\u0411\u0438\u043B\u0435\u0442 18\\\u0411\u0438\u043B\u0435\u0442 18.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T09:37:21.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
